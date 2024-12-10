@@ -1,7 +1,7 @@
 APP_NAME=go-start
 
 init:
-	echo "init"
+	@echo "init"
 
 tidy:
 	go mod tidy	
